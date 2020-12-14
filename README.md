@@ -32,8 +32,6 @@ You can Check this documentation for Loader and LiveData [Click here](https://de
 
 ## Screenshots:-
 
-<img src="Screenshots/Screenshot_20180809-170005.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180809-170017.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180809-170026.png" width="250" height="450" />
-
-<img src="Screenshots/Screenshot_20180809-170101.png" width="250" height="450" /> 
+<img src="Screenshots/Screenshot_20180809-170005.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180809-170017.png" width="250" height="450" /> 
 
 
