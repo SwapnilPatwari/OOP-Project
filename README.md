@@ -1,4 +1,4 @@
-# Toss A Coin App (Android architecture components).
+# COIN TOSSER APP.
 
 This is Flip a coin app and Records the Flip History.
 
